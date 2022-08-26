@@ -1,0 +1,4 @@
+python 3.8.
+selenium 4.4.3
+selenium-wire 4.6.5
+requests 2.28.1
